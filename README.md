@@ -40,7 +40,7 @@ Las imágenes se presentan mediante tablas y grillas para facilitar su comparaci
 <tr>
 <td align="center">
 <a href="https://raw.githubusercontent.com/nicomedinap/preboles.github.io/refs/heads/main/Documentacion/Clasificacion/CamarasDeAeropuertos/20260904213505.jpg">
-<img src="https://raw.githubusercontent.com/nicomedinap/preboles.github.io/refs/heads/main/Documentacion/Clasificacion/CamarasDeAeropuertos/20260904213505.jpg" width="600">
+<img src="[https://raw.githubusercontent.com/nicomedinap/preboles.github.io/refs/heads/main/Documentacion/Clasificacion/CamarasDeAeropuertos/20260904213505.jpg](https://raw.githubusercontent.com/nicomedinap/preboles.github.io/refs/heads/main/Documentacion/Clasificacion/CamarasDeAeropuertos/Captura%20de%20pantalla%20de%202026-11-12%2023-20-02.png)" width="600">
 </a>
 <br>
 <strong>Registro 04-09-2026</strong>
